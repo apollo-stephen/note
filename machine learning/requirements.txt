@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+scipy
+statsmodels
+imageio
+ipywidgets
+jupyter
+notebook
